@@ -1,4 +1,4 @@
-# dyapp
+# Tiktok App
 
 ## Project setup
 ```
